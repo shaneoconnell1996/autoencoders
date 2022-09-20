@@ -1,4 +1,4 @@
 # autoencoders
 
 
-This is where I will eventually add the autoencoder work completed to date 
+To run the autoencoders multiple times, you just need to loop `submit.sh` an arbitrary number of times with a bash for loop. 
